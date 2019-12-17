@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Test_Pryaniky</string>
+    <string name="app_name">Test Pryaniky</string>
+    <string name="repeat">Повторить</string>
+    <string name="repeat_description">Не удалось загрузить данные,\nпопробуйте еще раз</string>
+    <string name="blockSelector">Блок selector</string>
+    <string name="selectedId">selectedId:</string>
+    <string name="blockHz">Блок hz</string>
+    <string name="text">text:</string>
+    <string name="blockPicture">Блок picture</string>
 </resources>
